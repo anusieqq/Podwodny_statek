@@ -1,0 +1,19 @@
+# Unity - pliki generowane automatycznie
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+
+# Visual Studio
+.vs/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.dbUserSettings/
+*.csproj
+*.sln
+.vsconfig
+UserSettings/
